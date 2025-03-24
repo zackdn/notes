@@ -1,0 +1,10 @@
+{
+  "siteId": "8022f6b725c9643b03bb0c39eaa962c4",
+  "host": "publish-01.obsidian.md",
+  "included": [],
+  "excluded": [
+    "Library/Templates",
+    "Library/References",
+    "_Drafts"
+  ]
+}

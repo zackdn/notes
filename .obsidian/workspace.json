@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Writing/An Introduction.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "An Introduction"
+            }
+          },
+          {
+            "id": "da44c268f2a61b34",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Library/Media/1.png"
+              },
+              "icon": "lucide-image",
+              "title": "1"
             }
           },
           {
@@ -184,7 +196,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,18 +205,60 @@
       "graph:Open graph view": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "random-note:Open random note": false
+      "random-note:Open random note": false,
+      "publish:Publish changes...": false,
+      "canvas:Create new canvas": false
     }
   },
   "active": "239e70a3a60f1dcd",
   "lastOpenFiles": [
+    "notes/_site/assets/css/main.css.map",
+    "notes/_site/assets/css/main.css",
+    "notes/_site/assets/css",
+    "notes/_site/jekyll/update/2025/03/23/welcome-to-jekyll.html",
+    "notes/_site/jekyll/update/2025/03/23",
+    "notes/_site/jekyll/update/2025/03",
+    "notes/_site/jekyll/update/2025",
+    "notes/_site/assets/minima-social-icons.svg",
+    "notes/_site/assets/main.css.map",
+    "notes/_site/assets/main.css",
+    "notes/_site/jekyll/update",
+    "notes/_site/about/index.html",
+    "Library/Media/1.png",
+    "Library/Media/1.gif",
+    "Writing/Stop Googling - Try This Instead.md",
+    "Writing/An Introduction.md",
+    "_Drafts/AI and Storytelling/AI and Storytelling.md",
+    "Zack’s Digital Notes.jpg",
+    "_Drafts/The Stack/s002/Untitled.md",
+    "_Drafts/The Stack/s002/2.png",
+    "_Drafts/The Stack/s002/The Stack - Issue 2.md",
+    "_Drafts/The Stack/s002/1.png",
+    "_Drafts/The Stack/s003/The Stack - Issue 3.md",
+    "_Drafts/The Stack/s003/1.png",
+    "_Drafts/The Stack/s004/The Stack - Issue 4.md",
+    "_Drafts/The Stack/s004/2.png",
+    "_Drafts/The Stack/s004/1.png",
+    "_Drafts/The Stack/The Stack.png",
+    "_Drafts/The Stack/s001/Introducing \"The Stack\" 1.md",
+    "Writing/On Delegating Mindfulness.md",
+    "_Drafts/Untitled.md",
+    "_Drafts/AI Reading.md",
+    "_Drafts/Mastery/Building New Habits.md",
+    "A gentle man.md",
     "Library/Templates/Default Template.md",
+    "Frameworks.md",
+    "_Drafts/AI and Storytelling/brainstorm.canvas",
     "Welcome.md",
-    "Library/References",
-    "Library/Templates",
-    "Library",
-    "Writing",
-    "Library/Media",
-    "Inbox"
+    "_references/books-added/Voices of Recovery.md",
+    "_references/books-added/The Comfort Crisis.md",
+    "_references/books-added/Mastery.md",
+    "_references/books-added/Discipline That Connects With Your Child's Heart.md",
+    "_references/tweets/After 10 Years of Buildi....md",
+    "_references/tweets/How to Kill the Illusio....md",
+    "_references/tweets/Twitter, Now That We Und....md",
+    "_references/tweets/Growing Your Product Influence by Becoming the Best Product Leader You Can Be.md",
+    "_references/tweets/If You've Done an Online....md",
+    "_Drafts/Mastery/brainstorm.canvas"
   ]
 }
