@@ -57,3 +57,7 @@ exclude:
   - .obsidian/
   - notes/
   - README.md
+
+include:
+  - _drafts
+  - writing
