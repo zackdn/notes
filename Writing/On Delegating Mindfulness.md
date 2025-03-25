@@ -1,8 +1,7 @@
 ---
-layout: default
 title: On Delegating Mindfulness
 created: Saturday, February 24th 2024, 11:29:00 am
-modified: Monday, March 24th 2025, 12:57:10 am
+modified: Monday, March 24th 2025, 8:43:14 pm
 ---
 
 ## I ❤️ My 🧠

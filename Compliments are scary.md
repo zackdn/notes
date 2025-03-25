@@ -1,8 +1,7 @@
 ---
-layout: default
 title: Compliments are scary
 created: Tuesday, November 19th 2024, 3:09:09 pm
-modified: Monday, March 24th 2025, 12:56:18 am
+modified: Monday, March 24th 2025, 8:43:14 pm
 ---
 
 Kate recently complimented me about my parenting and it made me feel unsafe!

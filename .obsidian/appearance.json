@@ -1,9 +1,11 @@
 {
-  "accentColor": "#000000",
+  "accentColor": "#9d012a",
   "interfaceFontFamily": "Quicksand",
   "textFontFamily": "Courier New",
   "monospaceFontFamily": "Courier New",
   "baseFontSize": 20,
   "cssTheme": "",
-  "theme": "moonstone"
+  "theme": "system",
+  "showRibbon": false,
+  "showViewHeader": true
 }

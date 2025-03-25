@@ -1,8 +1,7 @@
 ---
-layout: default
 title: Frameworks
 created: Sunday, February 16th 2025, 6:02:48 pm
-modified: Monday, March 24th 2025, 12:57:10 am
+modified: Monday, March 24th 2025, 8:43:14 pm
 ---
 
 | Framework                                                                                                                  | Summary                                                                                                                                                                                                                                            | Category | Source          |

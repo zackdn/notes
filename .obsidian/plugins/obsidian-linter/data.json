@@ -32,7 +32,7 @@
     },
     "insert-yaml-attributes": {
       "enabled": true,
-      "text-to-insert": "layout: default"
+      "text-to-insert": ""
     },
     "move-tags-to-yaml": {
       "enabled": false,
@@ -41,7 +41,7 @@
     },
     "remove-yaml-keys": {
       "enabled": true,
-      "yaml-keys-to-remove": "date created\ndate modified"
+      "yaml-keys-to-remove": "date created\ndate modified\nlayout"
     },
     "sort-yaml-array-values": {
       "enabled": false,

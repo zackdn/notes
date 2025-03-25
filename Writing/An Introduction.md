@@ -1,11 +1,11 @@
 ---
-layout: default
 title: An Introduction
 created: Saturday, February 24th 2024, 11:49:01 am
-modified: Monday, March 24th 2025, 12:57:10 am
+modified: Monday, March 24th 2025, 8:43:05 pm
 ---
 
-### Why you should subscribe to my drivel!
+> [!NOTE] 
+> Why you should subscribe to my drivel!
 
 ## My Journey
 

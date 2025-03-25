@@ -8,43 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "239e70a3a60f1dcd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Doomscrolling.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Doomscrolling"
-            }
-          },
-          {
             "id": "da44c268f2a61b34",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Library/Media/1.png"
-              },
-              "icon": "lucide-image",
-              "title": "1"
-            }
-          },
-          {
-            "id": "f02a416797844dcc",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Library/Templates/Default Template.md",
+                "file": "Writing/An Introduction.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Default Template"
+              "title": "An Introduction"
             }
           }
         ]
@@ -79,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"tags\"]",
+                "query": "\"date\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -212,55 +186,61 @@
   },
   "active": "38855dc376fd67ed",
   "lastOpenFiles": [
-    "_site/_drafts/Untitled.html",
-    "_site/_drafts/The Stack/s002/Untitled.html",
-    "_site/_drafts/The Stack/s004/The Stack - Issue 4.html",
-    "_site/_drafts/The Stack/s003/The Stack - Issue 3.html",
-    "_site/_drafts/The Stack/s002/The Stack - Issue 2.html",
-    "_site/Writing/Stop Googling - Try This Instead.html",
-    "_site/Writing/On Delegating Mindfulness.html",
-    "_site/_drafts/The Stack/s001/Introducing \"The Stack\" 1.html",
-    "_site/Frameworks.html",
-    "_site/Ephesians 2. 11-22.html",
-    "_site/Writing/An Introduction.html",
+    "zackdn.png",
+    "Zack’s Digital Notes.png",
+    "What you seek.md",
+    "Welcome.md",
+    "Uncanny valley.md",
+    "There I am.md",
+    "Shame.md",
+    "Scarcity.md",
+    "Resentment - a prized possession.md",
+    "Read More Stories.md",
+    "Pain.md",
+    "Need to Do vs Will Do.md",
+    "Intimacy.md",
+    "Inauthentic.md",
+    "I get to choose.md",
+    "How to focus on the journey.md",
+    "Frameworks.md",
+    "Ephesians 2. 11-22.md",
+    "Doomscrolling.md",
     "Compliments are scary.md",
     "Authenticity vs Belonging.md",
     "Audio Test.md",
-    "Doomscrolling.md",
-    "Ephesians 2. 11-22.md",
-    "Frameworks.md",
-    "_site/assets/Media/Pasted image 20250216163259.png",
-    "_site/assets/Media/Pasted image 20250216163026.png",
-    "_site/assets/Media/CleanShot 2025-02-16 at 16.35.35@2x.png",
-    "_site/assets/Media/5.png",
-    "_site/assets/Media/4.gif",
-    "_site/assets/Media/3.png",
-    "_site/assets/Media/2.png",
-    "_site/assets/Media/2.jpeg",
-    "_site/assets/Media/1.png",
-    "_site/assets/Media/1.gif",
-    "_site/_drafts/Untitled.md",
-    "_site/_drafts/The Stack/s003/The Stack - Issue 3.md",
-    "_site/_drafts/The Stack/s004/The Stack - Issue 4.md",
-    "_site/_drafts/The Stack/s002/Untitled.md",
-    "_site/_drafts/The Stack/s002/The Stack - Issue 2.md",
-    "_site/_drafts/The Stack/s001/Introducing \"The Stack\" 1.md",
+    "A Gentle Man.md",
+    "Ideas/A Gentle Man.md",
+    "_inbox",
+    "untitled folder",
+    "publish.css",
+    "11ty No Style Please CSS.css",
+    "_library/Media/Pasted image 20250216163259.png",
+    "_library/Media/Pasted image 20250216163026.png",
+    "_library/Media/CleanShot 2025-02-16 at 16.35.35@2x.png",
+    "_library/Media/5.png",
+    "_library/Media/4.gif",
+    "_library/Media/3.png",
+    "_library/Media/2.png",
+    "_library/Media/2.jpeg",
+    "_library/Media/1.png",
+    "_library/Templates",
+    "_library/References",
+    "_library/Media",
+    "_library",
+    "Ideas/What you seek.md",
+    "Ideas/Welcome.md",
+    "Ideas/Uncanny valley.md",
+    "Ideas",
+    "_site/posts/overview-post/index.html",
+    "Writing/Drafts/Mastery/brainstorm.canvas",
+    "Writing/Drafts/AI and Storytelling/brainstorm.canvas",
+    "Drafts/Mastery/brainstorm.canvas",
+    "Drafts/AI and Storytelling/brainstorm.canvas",
+    "_drafts/Mastery/brainstorm.canvas",
+    "_drafts/AI and Storytelling/brainstorm.canvas",
+    "_site/Drafts/Mastery/brainstorm.canvas",
+    "_site/Drafts/AI and Storytelling/brainstorm.canvas",
     "_site/_drafts/Mastery/brainstorm.canvas",
-    "_site/_drafts/AI and Storytelling/brainstorm.canvas",
-    "_site/_drafts/AI and Storytelling/AI and Storytelling.md",
-    "_site/_drafts/AI Reading.md",
-    "_site/Writing/Stop Googling - Try This Instead.md",
-    "_site/Writing/An Introduction.md",
-    "_site/Writing/On Delegating Mindfulness.md",
-    "_site/Frameworks.md",
-    "_site/Ephesians 2. 11-22.md",
-    "Writing/An Introduction.md",
-    "Writing/Stop Googling - Try This Instead.md",
-    "_Drafts/AI and Storytelling/AI and Storytelling.md",
-    "_Drafts/The Stack/s002/Untitled.md",
-    "_Drafts/The Stack/s002/The Stack - Issue 2.md",
-    "_Drafts/The Stack/s003/The Stack - Issue 3.md",
-    "_Drafts/AI and Storytelling/brainstorm.canvas",
-    "_Drafts/Mastery/brainstorm.canvas"
+    "_site/_drafts/AI and Storytelling/brainstorm.canvas"
   ]
 }

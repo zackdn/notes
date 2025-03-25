@@ -1,0 +1,118 @@
+html {
+    /*max-width: 80ch;
+    padding: 3em 1em;*/
+    margin: auto;
+    line-height: 1.75;
+    font-size: 1.4em;
+}
+
+body {
+    --font-text-size: 18px;
+}
+
+.site-header .search-view-outer {
+    max-width: none !important;
+}
+
+.site-header-text:hover {
+    text-decoration-line: none;
+    color: #000;
+}
+
+@media screen and (min-width: 750px) {
+    .published-container.is-readable-line-width:not(.has-navigation).published-container.is-readable-line-width:not(.has-graph).published-container.is-readable-line-width:not(.has-outline) .site-header {
+        width: 100% !important;
+        max-width: var(--page-width);
+    }
+}
+
+body, p, span, a, li, td, th, 
+input, textarea, button, select, option,
+label, blockquote, cite, code, pre,
+div, section, article, aside, 
+header, footer, nav, main {
+  font-family: "Courier New", Courier, monospace;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin: 2em 0 1em;
+    font-family: Arial, Helvetica, sans-serif !important;
+}
+
+a.site-header-text {
+    font-family: Arial, Helvetica, sans-serif !important;
+    color: var(--text-accent);
+}
+
+.site-body-center-column {
+    padding: 3em 5em;
+}
+
+p,ul,ol {
+    margin-bottom: 1em;
+    color: #1d1d1d;
+}
+
+.post-meta {
+    text-align: right;
+}
+
+img {
+    max-width: 100%;
+    margin: 0 auto;
+    display: block;
+}
+
+blockquote {
+    font-style: italic;
+    border: thin solid black;
+    padding: 1rem;
+}
+
+blockquote p {
+    margin: 0;
+}
+
+pre {
+    overflow-x: auto;
+    padding: 1rem;
+}
+
+pre, code {
+    background: #e0e0e0;
+}
+
+table { width: 100%; }
+
+table, th, td {
+  border: thin solid black;
+  border-collapse: collapse;
+  padding: 0.4rem;
+}
+
+.table-wrapper {
+    overflow-x: auto;
+}
+
+body {
+    --accent-l: 50%;
+    --base-l: 96%;
+    --bg1: white;
+    --bg2: hsl( 0, 0%, 96% );
+    --bg3: hsla( 0, 0%, calc(96% - 50%), 0.12 );
+    --ui1: hsl( 0, 0%, calc(96% - 6%) );
+    --ui2: hsl( 0, 0%, calc(96% - 12%) );
+    --ui3: hsl( 0, 0%, calc(96% - 20%) );
+    --tx1: hsl( 0, 0%, calc(96% - 90%) );
+    --tx2: hsl( 0, calc(0% - 20%), calc(96% - 45%) );
+    --tx3: hsl( 0, calc(0% - 10%), calc(96% - 25%) );
+    --tx4: hsl( 0, calc(0% - 10%), calc(96% - 60%) );
+    --ax1: hsl( 344, 99%, 31% );
+    --ax2: hsl( 258, 88%, calc(50% - 10%) );
+    --ax3: hsl( 258, 88%, calc(50% + 10%) );
+    --hl1: hsla( 258, 50%, calc(96% - 20%), 30% );
+    --hl2: rgba(255, 225, 0, 0.5);
+    --accent-h: 344;
+    --accent-s: 99%;
+    --accent-l: 31%;
+}

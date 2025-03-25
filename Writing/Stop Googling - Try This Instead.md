@@ -1,8 +1,7 @@
 ---
-layout: default
 title: Stop Googling - Try This Instead
 created: Sunday, March 10th 2024, 7:34:35 am
-modified: Monday, March 24th 2025, 12:57:10 am
+modified: Monday, March 24th 2025, 8:43:14 pm
 ---
 
 I'm perplexed I never used this app before...
